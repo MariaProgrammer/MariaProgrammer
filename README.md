@@ -18,8 +18,8 @@
 | **Виджет погоды** | Pet-проект на Vue 3: поиск погоды по городу, интеграция с Visual Crossing API, адаптивный интерфейс и тесты на Vitest | [Демо](https://mariaprogrammer.github.io/weatherForecast-vidget/) · [Код](https://github.com/MariaProgrammer/weatherForecast-vidget) |
 | **Dentalia** | Коммерческий многостраничный сайт | [Открыть сайт](https://clinic-dentalia.ru/) |
 | **Примеры коммерческой верстки** | Лендинги и адаптивные страницы | [Проект 1](https://mariaprogrammer.github.io/Landing__knees/) · [Проект 2](https://mariaprogrammer.github.io/Landing__buh1/) · [Проект 3](https://mariaprogrammer.github.io/Fitness__landing/) |
-| **React-компоненты** | **UI Component Library** | Практика разработки переиспользуемых интерфейсных компонентов на React | [Демо](https://mariaprogrammer.github.io/UI-Component-Library/) · [Код](https://github.com/MariaProgrammer/UI-Component-Library) | · [Universal Modal Window](https://github.com/MariaProgrammer/Universal-modal-window) |
-
+| **UI Component Library** | Практика разработки переиспользуемых интерфейсных компонентов на React | [Демо](https://mariaprogrammer.github.io/UI-Component-Library/) · [Код](https://github.com/MariaProgrammer/UI-Component-Library) |
+| **Universal Modal Window** | Компонент модального окна на React | [Код](https://github.com/MariaProgrammer/Universal-modal-window) |
 ## Технологии
 
 **Основные:** HTML5, CSS3, JavaScript, адаптивная верстка, Grid, Flexbox, Sass/SCSS, Git.
